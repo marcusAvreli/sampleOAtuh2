@@ -1,0 +1,3 @@
+2022-03-12 14:59:57.708 INFO [main] [sampleOAuth2.App.main(App.java:32)] - APP_STARTED
+2022-03-12 15:00:02.379 INFO [main] [sampleOAuth2.App.main(App.java:72)] - output:
+2022-03-12 15:00:02.379 INFO [main] [sampleOAuth2.App.main(App.java:74)] - APP_FINISHED
